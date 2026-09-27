@@ -1,0 +1,1 @@
+# Coletora-de-dados-Cpp
